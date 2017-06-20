@@ -1,0 +1,24 @@
+{
+    "name": "Stars",
+    "author": "佐伯楽",
+    "version": "1.0.0",
+    "keywords": ["pebble-app"],
+    "private": true,
+    "dependencies": {},
+    "pebble": {
+        "main": {
+            "rockyjs": "src/rocky/index.js"
+        },
+        "displayName": "Stars",
+        "uuid": "c5591da1-15c4-4f91-9ba7-337c09c05ecd",
+        "projectType": "rocky",
+        "sdkVersion": "3",
+        "enableMultiJS": true,
+        "watchapp": {
+            "watchface": true
+        },
+        "resources": {
+            "media": []
+        }
+    }
+}
