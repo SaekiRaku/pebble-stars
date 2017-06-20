@@ -19,6 +19,9 @@
         },
         "resources": {
             "media": []
-        }
+        },
+        "targetPlatforms": [
+            "chalk"
+        ]
     }
 }
